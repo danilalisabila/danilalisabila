@@ -119,4 +119,6 @@ Halo! Saya **Danil Ali Sabila**, seorang pengembang yang tertarik pada **Web Dev
   <i>⭐️ Terima kasih sudah berkunjung ke profil GitHub saya! Jangan ragu untuk eksplorasi repositori saya. ⭐️</i>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="./footer.svg" width="100%"/>
+</p>
