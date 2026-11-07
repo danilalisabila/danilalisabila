@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22,27&height=220&section=header&text=Danil%20Ali%20Sabila&fontSize=42&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="./thumbnail.jpg" alt="Danil Ali Sabila" width="100%"/>
 </p>
 
 <p align="center">
@@ -119,6 +119,4 @@ Halo! Saya **Danil Ali Sabila**, seorang pengembang yang tertarik pada **Web Dev
   <i>⭐️ Terima kasih sudah berkunjung ke profil GitHub saya! Jangan ragu untuk eksplorasi repositori saya. ⭐️</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22,27&height=100&section=footer" width="100%"/>
-</p>
+<hr/>
